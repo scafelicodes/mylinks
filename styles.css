@@ -61,3 +61,13 @@ body {
 .links li a i {
     margin-right: 10px;
 }
+
+
+.credits {
+    margin-top: 50px;
+}
+
+.credits p {
+    font-size: 12px;
+    color: #777777;
+}

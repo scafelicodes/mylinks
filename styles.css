@@ -23,6 +23,10 @@ body {
     margin-bottom: 30px;
 }
 
+.bio p {
+    line-height: 24px;
+}
+
 .name--user {
 
 }

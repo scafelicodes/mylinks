@@ -1,9 +1,6 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
-
 body {
-    background-color: #303030;
-    color: #ffffff;
-    font-family: 'Roboto', sans-serif;
+    background: #f0f2f5;
+    font-family: 'Poppins', sans-serif;
 }
 
 .rounded-img {
@@ -47,8 +44,8 @@ body {
 }
 
 .links li a {
-    color: #fff;
-    border: 1px solid #fff;
+    color: #000000;
+    border: 1px solid;
     width: 100%;
     display: inherit;
     text-align: center;
@@ -59,7 +56,8 @@ body {
 }
 
 .links li a:hover {
-    background-color: #404040;
+    background-color: #fff;
+    border: 1px solid #777;
 }
 
 .links li a i {
@@ -72,6 +70,5 @@ body {
 }
 
 .credits p {
-    font-size: 12px;
     color: #777777;
 }
